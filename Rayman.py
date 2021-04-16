@@ -1,5 +1,6 @@
 # Tutoriel que je suis (Graven) = https://www.youtube.com/watch?v=8J8wWxbAdFg&list=PLMS9Cy4Enq5KsM7GJ4LHnlBQKTQBV8kaR
 # Site pour avoir pleins de sprites = https://www.spriters-resource.com/
+# Tuto du poto : https://www.youtube.com/watch?v=bY9qWjzkxFc&list=PL1H1sBF1VAKXh0GR1O94UUguIxkCP3dHM
 
 import sys
 import pygame 
