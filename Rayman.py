@@ -24,7 +24,7 @@ class Player(pygame.sprite.Sprite) :
 		self.max_health = 5
 		self.attack = 1
 		self.speed = 5
-		self.image = pygame.image.load('Persos/Rayman/NoRay/NoRay2.png') #Chargement de l'image du joueur
+		self.image = pygame.image.load('Persos/Rayman/NoRay2.png') #Chargement de l'image du joueur
 		self.rect = self.image.get_rect()
 		
 # Générer fenêtre de jeu :
@@ -40,7 +40,7 @@ background = pygame.image.load('Background/LotLD.jpg').convert() # Attribution d
 # Application image arrière-plan ( affichage ) :
 screen.blit(background, (0, 40))
 
-Img_NoRay = pygame.image.load('Persos/Rayman/NoRay/NoRay.png') # déclaration image du perso
+Img_NoRay = pygame.image.load('Persos/Rayman/NoRay.png') # déclaration image du perso
 Img_Spiritomb = pygame.image.load('Persos/Pokemon/spiritomb.gif')
 Pepe = pygame.image.load('Proche/Final/AttenteVGF.png')
 SCP = pygame.image.load('Background/SCP_087.png')
